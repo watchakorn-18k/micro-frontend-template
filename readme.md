@@ -1,3 +1,9 @@
+<div align="center">
+
+![image](example.gif)
+
+</div>
+
 # Micro Frontend Example via Vite + Vue 3 + TailwindCSS + DaisyUI
 
 # Get Started
